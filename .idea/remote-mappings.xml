@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteMappingsManager">
+    <list>
+      <list>
+        <remote-mappings server-id="python@sftp://ZFJ_166@202.207.12.166:22/home/ZFJ_166/anaconda3/envs/pytorch/bin/python3.7">
+          <settings>
+            <list>
+              <mapping local-root="$PROJECT_DIR$" remote-root="/home/ZFJ_166/project/MoKGE-master" />
+            </list>
+          </settings>
+        </remote-mappings>
+        <remote-mappings server-id="python@sftp://ZFJ_166@202.207.12.166:22/home/ZFJ_166/anaconda3/envs/moe/bin/python3.6" />
+      </list>
+    </list>
+  </component>
+</project>
